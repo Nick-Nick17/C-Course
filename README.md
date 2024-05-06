@@ -1,5 +1,5 @@
 # oop-course
-## Realization:
+## Realizations:
 -List
 
 -Deque
