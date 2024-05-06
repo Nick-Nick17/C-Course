@@ -1,7 +1,7 @@
 # oop-course
 ## Realizations:
--List
-
 -Deque
+
+-List
 
 -SharedPtr
